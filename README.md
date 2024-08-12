@@ -1,4 +1,4 @@
-## Fitness Tracker App
+### Fitness Tracker App
 
 ### 1. **Frontend Development** - Joshua Mwendwa
 
